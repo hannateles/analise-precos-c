@@ -21,28 +21,7 @@ Saída formatada com percentuais e símbolos monetários (R$)
 💻 Exemplo de Execução
 Programa para calcular a variação de preço de produtos
 
-Nome do produto: Arroz
-Preço Anterior: R$25.45
-Preço Atual   : R$25.45
-Variação      : 0.00%
-Situação      : ESTÁVEL
-------------------------------------------------------------
-
-Nome do produto: Feijão
-Preço Anterior: R$7.99
-Preço Atual   : R$7.90
-Variação      : -1.13%
-Situação      : QUEDA
-------------------------------------------------------------
-
-Nome do produto: Óleo
-Preço Anterior: R$6.75
-Preço Atual   : R$6.99
-Variação      : 3.56%
-Situação      : AUMENTO
-------------------------------------------------------------
-
-FIM DO PROGRAMA
+<img width="816" height="825" alt="image" src="https://github.com/user-attachments/assets/a8917b9f-a3de-401c-8758-b4e15f2a03fa" />
 
 🧠 Conceitos Aplicados
 
